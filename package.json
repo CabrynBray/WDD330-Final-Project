@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CabrynBray/WDD330-Final-Project.git"
+    "url": "git+https://github.com/CabrynBray/wdd330-final-project.git"
   },
   "author": "Cabryn Bray",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CabrynBray/WDD330-Final-Project/issues"
+    "url": "https://github.com/CabrynBray/wdd330-final-project/issues"
   },
   "homepage": "https://github.com/CabrynBray/WDD330-Final-Project#readme",
   "dependencies": {
